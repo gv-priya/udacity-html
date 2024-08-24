@@ -1,0 +1,78 @@
+/* add your CSS here */
+body{
+    width: 300px;
+    height: 540px;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    display:flex;
+    margin-block-start: 5px;
+    margin-block-end: 5px;
+    margin-inline-start: 5px;
+    margin-inline-end: 5px;
+}
+.card{
+    width: 300px;
+    height: 540px;
+    margin-left: 15px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    border-color: black;
+    border-top: 5px;
+    border-right:5px;
+    border-left:5px;
+    border-bottom: 5px;
+    box-shadow: 5px 15px 15px 5px rgba(0,0,0,0.2);
+    padding:2px 2px 2px 2px;
+}
+h3{
+    text-align: left;
+    text-decoration-color: aqua;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    padding-left: 2px;
+    padding-top: 2px;
+    padding-right:2px;
+    padding-bottom:2px;
+    margin:5px, 5px, 5px,5px;
+    margin-block-end: 5px;
+    margin-block-start: 5px;
+    text-wrap: wrap;
+}
+.stitchpic{
+    width: 300px;
+    height: 230px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right:5px;
+    margin-bottom:5px;
+    display: flex;  
+}
+.content{
+    border-color: rgb(9, 9, 9);
+    text-justify: auto;
+    border-top: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    border-bottom: 5px;
+    border-radius: 5px;
+    border-width: 0.5px;
+    border-style: solid;
+    margin: 3px;
+    background-color: aquamarine;
+    }
+.list{
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-indent: 15px;
+}
+
+
+
+    
+
+
+
